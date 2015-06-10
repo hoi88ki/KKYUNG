@@ -22,5 +22,5 @@ int main(){
 		// print out the encrypted character
 		printf("%c",c);
 	}while(1);
-	return 0;
+	return 0; //end of program
 }
